@@ -1,0 +1,13 @@
+{
+  "name": "node-couchbase-users",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": "3.0.6",
+    "jade": "*",
+    "couchbase": "*",
+    "async": "*",
+    "passport": "*",
+    "passport-local": "*"
+  }
+}
